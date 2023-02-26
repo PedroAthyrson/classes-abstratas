@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cfc1801-96ef-4a11-8d4e-e4105c4ae9b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes abstratas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Individual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Individual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/TaxPayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/TaxPayer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
